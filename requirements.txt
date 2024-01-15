@@ -1,0 +1,8 @@
+openai
+python-dotenv
+langchain
+pypdf
+chromadb
+tiktoken
+ragas
+sentence-transformers
